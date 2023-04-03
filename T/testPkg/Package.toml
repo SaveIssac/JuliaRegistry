@@ -1,0 +1,3 @@
+name = "testPkg"
+uuid = "9b4b8fa1-9ac0-43e7-a9e8-87f92f8c98fa"
+repo = "https://github.com/SaveIssac/testPkg.jl.git"

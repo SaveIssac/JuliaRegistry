@@ -1,0 +1,6 @@
+name = "testReg"
+uuid = "0ba7cd0e-ef51-4802-bf36-7a24fcb011b1"
+repo = "https://github.com/SaveIssac/JuliaRegistry.git"
+description = "test"
+
+[packages]
